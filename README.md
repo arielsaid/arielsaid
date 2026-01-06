@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=arielsaid&label=Profile%20views&color=0e75b6&style=flat" alt="arielsaid" />
 </p>
 
-<h1 align="center">Hi 👋, I'm ariel</h1>
+<h1 align="center">Hi 👋, I'm David</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
 
 <p align="center">
