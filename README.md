@@ -56,15 +56,15 @@
 
 
 <div align="center">
-<a href="https://github.com/arielsaid/content">
-  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=arielsaid&repo=content&theme=buefy" />
-</a>
+  <a href="https://github.com/arielsaid/content">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielsaid&repo=content&theme=buefy" />
+  </a>
 
-<a href="https://github.com/arielsaid/winget-pkgs">
-  <img src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/pin/?username=arielsaid&repo=winget-pkgs&theme=buefy" />
-</a>
-
+  <a href="https://github.com/arielsaid/winget-pkgs">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=arielsaid&repo=winget-pkgs&theme=buefy" />
+  </a>
 </div>
+
 
 ---
 
